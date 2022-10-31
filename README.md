@@ -160,4 +160,4 @@ print(classification_report(y_test,predictions))
 ## OUTPUT 
 
 ## RESULT
-Thus,the implementation of MLP with back propation is executed successfully.
+Thus,the implementation of MLP with back propagation is executed successfully.
