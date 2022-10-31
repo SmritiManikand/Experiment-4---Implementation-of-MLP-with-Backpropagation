@@ -159,5 +159,8 @@ print(classification_report(y_test,predictions))
 ```
 ## OUTPUT 
 
+![s1](https://user-images.githubusercontent.com/113674204/199022352-87f6af59-7b6b-4e6a-9090-17be52f936b4.png)
+
+
 ## RESULT
 Thus,the implementation of MLP with back propagation is executed successfully.
